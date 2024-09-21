@@ -6,6 +6,6 @@
   Project - ft_printf
 </h1>
 
-The goal of this project is to recreate the printf() function in C, focusing on implementing a variadic function called ft_printf(). This project will enhance programming skills and requires a well-structured, extensible codebase. Participants will handle specific format conversions and must adhere to strict coding norms to avoid errors. Successfully completing the project will allow students to integrate ft_printf() into their libft for future assignments. The project includes mandatory and bonus components, with evaluation based on functionality and compliance with guidelines.
+The project aims to recreate the printf() function in C through a custom variadic function called ft_printf(). It focuses on specific format conversions and requires adherence to coding norms to avoid errors. Successful completion allows integration into the student's libft for future projects. Evaluation includes both mandatory and optional bonus components.
 
 *Summary generated with chatgpt
